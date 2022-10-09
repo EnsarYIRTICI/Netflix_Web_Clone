@@ -1,4 +1,4 @@
-# Netflix_Web_clone_v1.0
+# Netflix_Web_Clone_v1.0
 
 Netflix Web Clone Project.
 
